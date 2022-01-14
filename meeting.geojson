@@ -1,0 +1,12 @@
+{
+    "type": "Feature",
+    "properties": {
+        "name": "Annistown Baptist Church",
+        "amenity": "Fellowship Hall",
+        "popupContent": "For the time being we are meeting in the Fellowship Hall at the back of the church where we usually hold our Christmas parties. Park in the lower lot and enter the Fellowship Hall through the door near the playground for children."
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-84.0692746476703, 33.804940483281264]
+    }
+}
